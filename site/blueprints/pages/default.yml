@@ -1,0 +1,10 @@
+title: Default Page
+preset: page
+fields:
+  date:
+    type: date
+  text:
+    label: Text
+    type: textarea
+    size: large
+
