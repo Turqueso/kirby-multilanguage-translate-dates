@@ -11,3 +11,5 @@
 </nav>
 <h1><?= $page->title() ?></h1>
 <?= $page->date()->toDate('%a %B %Y') ?>
+
+<?php dump(ResourceBundle::getLocales('')); ?>
